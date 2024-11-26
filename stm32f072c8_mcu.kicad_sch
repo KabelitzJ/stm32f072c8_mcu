@@ -1,5 +1,127 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e68034de-3c5e-4df9-b3d4-7e0ea1d00387")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 19.05 57.15)
+		(size 19.05 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "35d32fe6-594a-4259-8115-e203447d539d")
+		(property "Sheetname" "FLASH"
+			(at 19.05 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/flash.kicad_sch"
+			(at 19.05 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stm32f072c8_mcu"
+				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 19.05)
+		(size 19.05 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "536ad4b2-1890-46bf-b235-a2b283909d39")
+		(property "Sheetname" "MCU"
+			(at 19.05 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/mcu.kicad_sch"
+			(at 19.05 32.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stm32f072c8_mcu"
+				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 38.1)
+		(size 19.05 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d33bead4-075b-4ab7-8a51-fe807e9b64e0")
+		(property "Sheetname" "USB"
+			(at 19.05 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheets/usb.kicad_sch"
+			(at 19.05 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stm32f072c8_mcu"
+				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
