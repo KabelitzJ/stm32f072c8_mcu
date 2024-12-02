@@ -1,4 +1,4 @@
-24210078912109635
+24211815993779332
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97964,6 +97964,13 @@ Varistor VF
 0
 2
 2
+custom
+2.8x3.5_LED_RGB
+
+
+0
+4
+4
 custom
 73-XT49M1200-S
 
