@@ -2850,7 +2850,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00d8948e-4d7f-43f9-a718-5ae579d59914")
-		(property "Reference" "U5"
+		(property "Reference" "U6"
 			(at 226.9841 34.29 0)
 			(effects
 				(font
@@ -2946,7 +2946,7 @@
 		(instances
 			(project ""
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "U5")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -2962,7 +2962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ddcdf42-20b6-4e0d-a810-7579a485e8b9")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR050"
 			(at 224.79 133.35 0)
 			(effects
 				(font
@@ -3012,7 +3012,7 @@
 		(instances
 			(project ""
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR033")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -3028,7 +3028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26667859-99f7-48f5-b8e3-e3edb910f648")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR044"
 			(at 92.71 48.26 0)
 			(effects
 				(font
@@ -3078,7 +3078,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR037")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -3094,7 +3094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "297d2f04-e735-40c9-9777-ae9f421af40f")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR048"
 			(at 50.8 83.82 0)
 			(effects
 				(font
@@ -3144,7 +3144,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR039")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -3160,7 +3160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32137477-1ce0-4ca0-a5d4-ed84459c2299")
-		(property "Reference" "U6"
+		(property "Reference" "U7"
 			(at 226.9841 93.98 0)
 			(effects
 				(font
@@ -3256,7 +3256,7 @@
 		(instances
 			(project ""
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "U6")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -3272,7 +3272,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38d16c0b-19e5-44fa-bb35-324d97a3294b")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR042"
 			(at 92.71 33.02 0)
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR036")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -3338,7 +3338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b4a0f90-83ea-4fdc-950f-22645c86900d")
-		(property "Reference" "C12"
+		(property "Reference" "C17"
 			(at 107.95 34.2899 0)
 			(effects
 				(font
@@ -3392,7 +3392,7 @@
 		(instances
 			(project ""
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "C12")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -3408,7 +3408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42ff4305-db57-4813-bb7b-3e7cdf8f5d22")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR049"
 			(at 224.79 97.79 0)
 			(effects
 				(font
@@ -3458,7 +3458,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR031")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -3474,7 +3474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a72e343-865e-46fe-ae89-43b48ea9a27e")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR051"
 			(at 242.57 133.35 0)
 			(effects
 				(font
@@ -3524,7 +3524,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR035")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -3539,7 +3539,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6b209331-03c4-4d60-883c-11092867948e")
-		(property "Reference" "R4"
+		(property "Reference" "R15"
 			(at 51.816 85.09 0)
 			(effects
 				(font
@@ -3593,7 +3593,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "R4")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -3609,7 +3609,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87e0cdc9-520f-4fe1-9984-f9baab3e6bae")
-		(property "Reference" "C13"
+		(property "Reference" "C16"
 			(at 96.52 34.2899 0)
 			(effects
 				(font
@@ -3663,7 +3663,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "C13")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -3679,7 +3679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ccfecd9-29b3-4b43-a446-4bd3d24fa55a")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR047"
 			(at 242.57 73.66 0)
 			(effects
 				(font
@@ -3729,7 +3729,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR034")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -3744,7 +3744,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab5fa9d4-f556-4063-915a-641d2b151ea0")
-		(property "Reference" "R3"
+		(property "Reference" "R14"
 			(at 51.816 58.42 0)
 			(effects
 				(font
@@ -3798,7 +3798,7 @@
 		(instances
 			(project ""
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "R3")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -3814,7 +3814,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7ce2d86-858b-4821-b83c-7a1b9b3b72f3")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR045"
 			(at 50.8 57.15 0)
 			(effects
 				(font
@@ -3864,7 +3864,7 @@
 		(instances
 			(project "stm32f072c8_mcu"
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR038")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -3880,7 +3880,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bdb31d2f-25ea-4ddd-8f36-32f7c1c54a84")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR046"
 			(at 224.79 73.66 0)
 			(effects
 				(font
@@ -3930,7 +3930,7 @@
 		(instances
 			(project ""
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR032")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -3946,7 +3946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c281a264-f2be-4410-801d-d3fbc323dd19")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR043"
 			(at 224.79 38.1 0)
 			(effects
 				(font
@@ -3996,7 +3996,7 @@
 		(instances
 			(project ""
 				(path "/e68034de-3c5e-4df9-b3d4-7e0ea1d00387/35d32fe6-594a-4259-8115-e203447d539d"
-					(reference "#PWR030")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
